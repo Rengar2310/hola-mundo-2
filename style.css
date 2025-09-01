@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    color : red
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: salmon;
+    padding: 30px;
+}
+
+#footer{
+    background-color: green;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10 px 0;
+}
